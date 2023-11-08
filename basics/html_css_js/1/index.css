@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(196, 255, 235);
+    font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    background-color: chartreuse;
+    font-size: large;
+    font-weight: 600;
+}
