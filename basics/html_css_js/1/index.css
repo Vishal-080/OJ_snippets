@@ -6,4 +6,17 @@ span{
     background-color: chartreuse;
     font-size: large;
     font-weight: 600;
+} 
+
+ul{
+    display: flex;
+    flex-direction: row;
+}
+li {
+    list-style-type: none;
+    margin: 1em;
+    padding: 1em;
+}
+navbar {
+
 }
